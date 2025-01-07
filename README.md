@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # CRUD-Application
 >>>>>>> 30e3a87993c4f5fa5d68cdab018df1cd0908167b
+=======
+# Task-Manager
+>>>>>>> 667b845784fff7f3c0c460cbef7800d170a42f6d
