@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  width: 345px;
+  margin: auto;
+  border: 2px solid;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+
+.form-control {
+  display: block;
+  width: 370px;
+}
+
+.table {
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.checkbox-task {
+  margin-left: 15px;
+}
+.checkbox-task input {
+  height: 20px;
+  width: 22px;
+  background-color: gray;
+}
+
+/* logout btn */
+.logout-btn {
+  background-color: red;
+  color: white;
+  padding: 8px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+.logout-container {
+  position: absolute;
+  right: 10px; /* Adjust the spacing from the right */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 440px) {
+  form {
+    width: 295px;
+    margin: auto;
+  }
+}
+@media screen and (max-width: 375px) {
+  form {
+    width: 225px;
+    margin: auto;
+  }
+}
